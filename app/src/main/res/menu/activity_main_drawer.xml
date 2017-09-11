@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/nav_menu_group">
+        <item
+            android:id="@+id/nav_add_announcement"
+            android:title="Create new advert" />
+
+        <item
+            android:id="@+id/nav_my_adverts"
+            android:title="My Adverts"/>
+    </group>
+
+    <item
+        android:id="@+id/nav_log_out"
+        android:title="Log Out" />
+
+
+</menu>

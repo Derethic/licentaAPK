@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0cc1a6284eea9a27037e4cbab6e5611a9fdb8978">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5aea0d07474b8a7fd691e774639fe9a49e2deb03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0_da0fe65f49d9304e9461185cd756fd71e01569ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_69ee143dba8312151ba100d94584b729c5ab3139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\24b9459cc2140211f3b3b808d7d37909ce655bfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a40d1ea127cd1fc5dd4216fa2e38e89a453e1cf6">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_ffe88faf319a760aa05f352b2ac1ec09c7aadb70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\eca13bec19a6a6eb66383ca2a68c649b23255f2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_d4f033b0c7fa645d09aa828acfb8f507e389bd3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\c684d747e4f3738d366edb61cdb3a20d6cbdd7ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_ff971242eb3f187133653377d4634db3a4aadcac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\25609fc8cba2aaf60ac259bebf6902639447c9a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_9bb4c108cc816a260c7a37ae2a777b9400069b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\2bfa19a9dd50e3c466fcf974ad4dc7855c0762de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_03cc0ba302d1ef07d45804a31afbc79200574c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\okio-1.13.0_fec1b82db038b67659eae058ef17f9d20484133f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_a07dd3f672f7b97dcef2366e60996b28fd0a16ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\3ba7687bb13d47270a7f3d0315e2e6c5cccf42be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_213acee0bdddd9e86b00e3211fcec3eb91d05ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\d70ea707ef05319ad7bad54bb567e1bd2f37b7bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_905bb2ed4564db0972513dac216df2586a694452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.1_d893428bc6db0a047a6832fb8cbf06d2749dd8ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\gson-2.7_cdb4124bdc36aaacd4b3d081f5fea7722b70c9e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\b240a22db68f0cd34980d0576e1c4e475aaa347b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_b8be96f28de5d880e4dc14664f936151001695fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\3246e1cf28d3c6fc1167a560056c3ef1b89ea551\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_6d386b0ef1bdb299eab91141905297f25b3ead67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0_6521c20437c6c92756d6ddc8a2d4fc9026b6afd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_d93209719514177a07d1499f2dde8d49cbaaa15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\8e36865ef051c2142a79545a4161b048e4ac1f39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_aa6fee8e8d61cb08560357c4d9c241e62ef0a5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.6.0\81887458b69ddc32722df7e4c35235fd74e6a8ba\logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.6.0_9fd7921ccf376d5db410d82f1a4424c9c79127cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\5abbe87a1dcdf6448afcefef0ff3afeeb6c1d88c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_b155495f3df16a8348ee7e6c7bf9a4b8ff84230b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0_6a302d14a4c77aa06a81f89bdadb94363dfbfd74\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\e12773a50bd2c838269ce24a5911699e32f6002c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_1a889e117ca994b773e8a4cbb1bcce068bf3e400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7e0816e6f961d33ad3a885024512257657cba337.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0_756c8a57310cbb29404dd6a1eedcda113125875d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\d4166879c7b54c3046c962ce70c4b91b74856375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_a73975e578288c6954bec4364cd1829a1e862ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\a6096b73e7d9d43e29eaf535383c164862204162\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_1b18dcc743061e267053b23bc2c89983fced2e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\5271585a06c5ba827d72f7c90b8403c8a25d337e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_51d7eda871b12cf11f4088c3475ba4cbee0d2ecb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7a113295532d8369ad6dfaefe13f1b8d569b8e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derethic\.android\build-cache\2acf6735460703b0ca605dd691d09036d217df1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5aee90615c5d2475d46c6dd7955ac4bbd784d968\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\3a87fb3c57627dd01aff8b1f10dfda7530ef0898\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_538ee2a93f1c3631b3320a6a1c122d2d719fffde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_911d99f337a11621290cf1bd3aba04ae1feb4c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\87e6767d2f4bb5a2ea9850b0e0c95d08c715c768\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_25d3e45f582dc3a80167fa79fd45cdc11e5931fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derethic\.android\build-cache\35c2746117b65baa3a53022e786b87d67ac9269c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Derethic\AndroidStudioProjects\LicentaAPK\app\build\intermediates\pre-dexed\debug\classes_db77b6cf1ca6a14234601b5c8b316be8c6ab7d0f.jar" />
+    </item>
+
+</items>
